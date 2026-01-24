@@ -20,6 +20,11 @@ jobs:
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
+      - name: Debug Docker Hub values
+        run: |
+          echo "USER=pranjali2002"
+          echo "TAG=pranjali2002/telco-fastapi:latest"
+
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v5
