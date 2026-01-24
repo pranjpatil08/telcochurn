@@ -1,4 +1,4 @@
-artifact_uri: file:///Users/riadanas/Desktop/Telco Customer Churn MLE/mlruns/255324724357295771/3b1a41221fc44548aed629fa42b762e0/artifacts
+artifact_uri: file:C:\Users\pranj\Desktop\telcochurn\Telco-Customer-Churn-ML\mlruns\573282587952596168\2d7fdb63ab70410184ef2c64028553ce\artifacts
 end_time: 1755582652447
 entry_point_name: ''
 experiment_id: '255324724357295771'
@@ -12,4 +12,4 @@ source_version: ''
 start_time: 1755582649409
 status: 3
 tags: []
-user_id: riadanas
+user_id: pranjali2002
